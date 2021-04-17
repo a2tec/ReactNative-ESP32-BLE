@@ -59,7 +59,7 @@ export default StyleSheet.create({
 
     title: {
         marginTop: 15,
-        fontSize: 22,
+        fontSize: 20,
         marginBottom: 16,
         color: '#13131a',
         fontWeight: 'bold'
@@ -92,6 +92,7 @@ export default StyleSheet.create({
         alignContent: 'center',
         justifyContent: 'center',
         paddingHorizontal: 24,
+        zIndex: 1
     },
 
     viewFooter: {
